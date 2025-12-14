@@ -1,3 +1,4 @@
+# Python lab program
 age = 25
 print("Integer")
 print("Value:", age)

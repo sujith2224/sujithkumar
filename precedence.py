@@ -1,3 +1,4 @@
+# Python lab program
 expr1 = 5 + 3 * 2
 expr2 = 2 * 3 ** 2
 expr3 = 2 ** 3 ** 2
